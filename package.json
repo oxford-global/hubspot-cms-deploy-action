@@ -12,6 +12,6 @@
     "deployment"
   ],
   "dependencies": {
-    "yoga-layout": "^3.2.1"
+    "yoga-layout": "2.0.1"
   }
 }
